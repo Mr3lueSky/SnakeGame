@@ -7,7 +7,7 @@ The old snake mobile game made using python.
 3. Run the program and the snake game will begin.
 
 ## HOW TO PLAY
-The game is very simple.
+The game is very simple.\
 Your goal as the snake is to eat as many food as you can without eating yourself(ie: bite your own tail) or hitting the walls.
 ### CONTROLS
 ↑ : GO UP\
