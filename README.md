@@ -9,7 +9,7 @@ The old snake mobile game made using python.
 ## HOW TO PLAY
 The game is very simple.
 Your goal as the snake is to eat as many food as you can without eating yourself(ie: bite your own tail) or hitting the walls.
-###CONTROLS
+### CONTROLS
 up-arrow : GO UP
 down-arrow : GO DOWN
 left-arrow :  GO LEFT
